@@ -1,0 +1,13 @@
+[package]
+name = "no-order"
+version = "0.1.0"
+edition = "2024"
+authors = ["Vincent Lagerros <vincent.lagerros@gmail.com>"]
+license = "MIT"
+license-file = "LICENSE"
+description = "A transparent wrapper to ignore ordering and hashing of any value"
+repository = "https://github.com/VincentLagerros/no-order"
+keywords = ["cmp", "hash", "ord"]
+categories = ["data-structures"]
+readme = "README.md"
+[dependencies]
